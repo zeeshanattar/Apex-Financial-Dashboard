@@ -55,4 +55,4 @@ A Salesperson Treemap visualizes each salesperson’s contribution proportionall
 The dashboard highlights that revenue is growing, but rising costs are limiting profit growth, indicating a need for cost optimization. Profit and revenue are concentrated in a few categories, products, and regions, suggesting both dependency risks and opportunities for diversification. Regional and sales team insights reveal areas for expansion and performance improvement, enabling data-driven strategic decisions.
 
 # 6) Screenshot For Demo
-the dashboard looks like :
+the dashboard looks like :[https://github.com/zeeshanattar/Apex-Financial-Dashboard/blob/main/Apex%20Financial%20Dashboard.png]
